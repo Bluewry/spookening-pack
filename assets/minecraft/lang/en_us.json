@@ -212,5 +212,9 @@
   "block.minecraft.deepslate_emerald_ore": "Deepslate Enerakd Ore",
   "block.minecraft.emerald_block": "Block of Enerakd",
   "item.minecraft.emerald": "Enerakd",
-  "advancements.adventure.trade.title": "Ennies for Days!"
+  "advancements.adventure.trade.title": "Ennies for Days!",
+  "advancements.husbandry.wax_on.title": "Nutter On",
+  "advancements.husbandry.wax_on.description": "Apply Nutterbutter to a Copper block!",
+  "advancements.husbandry.wax_off.title": "Nutter Off",
+  "advancements.husbandry.wax_off.description": "Scrape Nutterbutter off of a Copper block!",
 }
