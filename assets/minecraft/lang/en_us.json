@@ -217,5 +217,13 @@
   "advancements.husbandry.wax_on.title": "Nutter On",
   "advancements.husbandry.wax_on.description": "Apply Nutterbutter to a Copper block!",
   "advancements.husbandry.wax_off.title": "Nutter Off",
-  "advancements.husbandry.wax_off.description": "Scrape Nutterbutter off of a Copper block!"
+  "advancements.husbandry.wax_off.description": "Scrape Nutterbutter off of a Copper block!",
+  "item.minecraft.chicken": "Raw Goose",
+  "item.minecraft.cooked_chicken": "Cooked Goose",
+  "item.minecraft.chicken_spawn_egg": "Goose Spawn Egg",
+  "entity.minecraft.chicken": "Goose",
+  "subtitles.entity.chicken.ambient": "Goose honks",
+  "subtitles.entity.chicken.death": "Goose dies",
+  "subtitles.entity.chicken.egg": "Goose plops",
+  "subtitles.entity.chicken.hurt": "Goose hurts",
 }
