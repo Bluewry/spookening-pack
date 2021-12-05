@@ -226,5 +226,11 @@
   "subtitles.entity.chicken.death": "Goose dies",
   "subtitles.entity.chicken.egg": "Goose plops",
   "subtitles.entity.chicken.hurt": "Goose hurts",
-  "enchantment.minecraft.bane_of_arthropods": "Bane of Anthropods"
+  "enchantment.minecraft.bane_of_arthropods": "Bane of Anthropods",
+  "item.minecraft.milk_bucket": "Pilk Bucket",
+  "subtitles.entity.cow.milk": "Cow gets pilked",
+  "subtitles.entity.goat.milk": "Goat gets pilked",
+  "subtitles.entity.mooshroom.milk": "Mooshroom gets pilked",
+  "subtitles.entity.mooshroom.suspicious_milk": "Mooshroom gets pilked suspiciously",
+  "subtitles.entity.wandering_trader.drink_milk": "Wandering Trader drinks pilk"
 }
