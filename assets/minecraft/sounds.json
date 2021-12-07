@@ -70,6 +70,49 @@
 			}
 		]
 	},
+	"entity.chicken.ambient": {
+		"replace": true,
+		"sounds": [
+			{
+				"name": "mob/chicken/say1",
+				"volume": 0.6,
+			},
+			{
+				"name": "mob/chicken/say2",
+				"volume": 0.6,
+			},
+			{
+				"name": "mob/chicken/say3",
+				"volume": 0.6,
+			}
+		]
+	},
+	"entity.chicken.hurt": {
+		"replace": true,
+		"sounds": [
+			{
+				"name": "mob/chicken/hurt1",
+				"volume": 0.6,
+			},
+			{
+				"name": "mob/chicken/hurt2",
+				"volume": 0.6,
+			}
+		]
+	},
+	"entity.chicken.death": {
+		"replace": true,
+		"sounds": [
+			{
+				"name": "mob/chicken/hurt1",
+				"volume": 0.7,
+			},
+			{
+				"name": "mob/chicken/hurt2",
+				"volume": 0.7,
+			}
+		]
+	},
 	"entity.creeper.primed": {
 		"replace": true,
 		"sounds": [
