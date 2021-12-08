@@ -57,6 +57,7 @@
   "item.minecraft.music_disc_ward.desc": "Coldplay - Viva La Vida (8bit)",
   "item.minecraft.music_disc_wait.desc": "Gorillaz - Feel Good Inc. (8bit)",
   "item.minecraft.music_disc_mellohi.desc": "Basshunter - DotA (8bit)",
+  "item.minecraft.music_disc_chirp.desc": "Topaz - Singa (Acid Interstate V3)",
   "item.minecraft.ender_pearl": "Endertim Pearl",
   "item.minecraft.ghast_tear": "Ghuest Tear",
   "item.minecraft.spider_eye": "Eye of the Spider",
@@ -287,4 +288,5 @@
   "merchant.level.5": "Sandwich Artist",
   "chat.type.advancement.task": "%s has made the advancement %s ...finally",
   "item.minecraft.bone": "Boner"
+  
 }
