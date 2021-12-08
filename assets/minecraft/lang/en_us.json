@@ -232,12 +232,11 @@
   "subtitles.entity.goat.milk": "Goat gets pilked",
   "subtitles.entity.mooshroom.milk": "Mooshroom gets pilked",
   "subtitles.entity.mooshroom.suspicious_milk": "Mooshroom gets pilked suspiciously",
-  "subtitles.entity.wandering_trader.drink_milk": "Wandering Trader drinks pilk"
   "block.minecraft.raw_copper_block": "Block of Raw Beans",
   "item.minecraft.raw_copper": "Raw Bean",
   "item.minecraft.copper_ingot": "Bean Ingot",
   "sleep.players_sleeping": "%s/%s players gettin' cozy",
-  "sleep.skipping_night": "Sleep tight :)"
+  "sleep.skipping_night": "Sleep tight :)",
   "merchant.deprecated": "Thorpsmen restock up to two times per day.",
   "merchant.current_level": "Thorpsman's current level",
   "merchant.next_level": "Thorpsman's next level",
@@ -262,7 +261,7 @@
    "subtitles.entity.wandering_trader.ambient": "Wandering Thorpsman mumbles",
   "subtitles.entity.wandering_trader.death": "Wandering Thorpsman dies",
   "subtitles.entity.wandering_trader.disappeared": "Wandering Thorpsman disappears",
-  "subtitles.entity.wandering_trader.drink_milk": "Wandering Thorpsman drinks milk",
+  "subtitles.entity.wandering_trader.drink_milk": "Wandering Thorpsman drinks pilk",
   "subtitles.entity.wandering_trader.drink_potion": "Wandering Thorpsman drinks potion",
   "subtitles.entity.wandering_trader.hurt": "Wandering Thorpsman hurts",
   "subtitles.entity.wandering_trader.no": "Wandering Thorpsman disagrees",
@@ -287,5 +286,5 @@
   "merchant.level.4": "Good at his job now",
   "merchant.level.5": "Sandwich Artist",
   "chat.type.advancement.task": "%s has made the advancement %s ...finally",
-  "item.minecraft.bone": "Boner",
+  "item.minecraft.bone": "Boner"
 }
