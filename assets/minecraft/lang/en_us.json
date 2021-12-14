@@ -294,5 +294,6 @@
   "merchant.level.5": "Sandwich Artist",
   "chat.type.advancement.task": "%s has made the advancement %s ...finally",
   "item.minecraft.bone": "Boner"
-  
+  "death.attack.starve": "%1$s needed food badly",
+  "death.attack.starve.player": "%1$s needed food badly whilst fighting %2$s",
 }
