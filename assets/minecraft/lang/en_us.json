@@ -97,7 +97,6 @@
   "entity.minecraft.zoglin": "Zolin",
   "death.attack.inFire": "%1$s went out through the fire and flames",
   "death.attack.lava": "%1$s tried and failed to swim in lava",
-  "death.attack.starve": "%1$s couldn't find food",
   "death.attack.generic": "%1$s is died",
   "death.attack.player": "%2$s destroyed %1$s",
   "death.attack.player.item": "%1$s got owned by %2$s using %3$s",
@@ -293,7 +292,7 @@
   "merchant.level.4": "Good at his job now",
   "merchant.level.5": "Sandwich Artist",
   "chat.type.advancement.task": "%s has made the advancement %s ...finally",
-  "item.minecraft.bone": "Boner"
+  "item.minecraft.bone": "Boner",
   "death.attack.starve": "%1$s needed food badly",
-  "death.attack.starve.player": "%1$s needed food badly whilst fighting %2$s",
+  "death.attack.starve.player": "%1$s needed food badly whilst fighting %2$s"
 }
