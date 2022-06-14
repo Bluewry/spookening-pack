@@ -226,7 +226,7 @@
   "item.minecraft.chicken_spawn_egg": "Goose Spawn Egg",
   "entity.minecraft.chicken": "Goose",
   "subtitles.entity.chicken.ambient": "Goose honks",
-  "subtitles.entity.chicken.death": "Goose dies",
+  "subtitles.entity.chicken.death": "Goose fucking dies",
   "subtitles.entity.chicken.egg": "Goose plops",
   "subtitles.entity.chicken.hurt": "Goose hurts",
   "enchantment.minecraft.bane_of_arthropods": "Bane of Anthropods",
@@ -294,5 +294,6 @@
   "chat.type.advancement.task": "%s has made the advancement %s ...finally",
   "item.minecraft.bone": "Boner",
   "death.attack.starve": "%1$s needed food badly",
-  "death.attack.starve.player": "%1$s needed food badly whilst fighting %2$s"
+  "death.attack.starve.player": "%1$s needed food badly whilst fighting %2$s",
+  "item.minecraft.scute": "Turtle Foreskin"
 }
